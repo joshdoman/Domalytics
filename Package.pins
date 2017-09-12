@@ -14,6 +14,24 @@
       "version": "1.0.0"
     },
     {
+      "package": "CCurl",
+      "reason": null,
+      "repositoryURL": "https://github.com/boostcode/CCurl.git",
+      "version": "0.2.4"
+    },
+    {
+      "package": "CLibreSSL",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/clibressl.git",
+      "version": "1.0.0"
+    },
+    {
+      "package": "CPostgreSQL",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor-community/cpostgresql.git",
+      "version": "2.1.0"
+    },
+    {
       "package": "CTLS",
       "reason": null,
       "repositoryURL": "https://github.com/vapor/ctls.git",
@@ -68,6 +86,12 @@
       "version": "2.0.2"
     },
     {
+      "package": "JWT",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/jwt.git",
+      "version": "2.2.1"
+    },
+    {
       "package": "Multipart",
       "reason": null,
       "repositoryURL": "https://github.com/vapor/multipart.git",
@@ -78,6 +102,24 @@
       "reason": null,
       "repositoryURL": "https://github.com/vapor/node.git",
       "version": "2.0.3"
+    },
+    {
+      "package": "PostgreSQL",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor-community/postgresql.git",
+      "version": "2.1.0"
+    },
+    {
+      "package": "PostgreSQLDriver",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/postgresql-driver.git",
+      "version": "2.0.1"
+    },
+    {
+      "package": "PostgreSQLProvider",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/postgresql-provider.git",
+      "version": "2.0.0"
     },
     {
       "package": "Random",
@@ -104,6 +146,12 @@
       "version": "2.0.1"
     },
     {
+      "package": "SwiftString",
+      "reason": null,
+      "repositoryURL": "https://github.com/matthijs2704/SwiftString.git",
+      "version": "1.0.7"
+    },
+    {
       "package": "TLS",
       "reason": null,
       "repositoryURL": "https://github.com/vapor/tls.git",
@@ -114,6 +162,12 @@
       "reason": null,
       "repositoryURL": "https://github.com/vapor/vapor.git",
       "version": "2.1.0"
+    },
+    {
+      "package": "VaporAPNS",
+      "reason": null,
+      "repositoryURL": "https://github.com/matthijs2704/vapor-apns.git",
+      "version": "2.0.0"
     }
   ],
   "version": 1
